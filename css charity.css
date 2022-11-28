@@ -1,6 +1,6 @@
 * {
     
-    background-color: rgb(240, 233, 228);
+    background-color: rgba(239, 227, 218, 0.914);
 }
 
 .container {
@@ -240,7 +240,7 @@ div.footer-content{
     flex-direction: column;
     text-align: center;
     background: rgb(13, 13, 15);
-    color: white;
+    color: rgb(235, 230, 230);
 }
 
 div.footer-h3{
